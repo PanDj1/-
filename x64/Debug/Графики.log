@@ -1,0 +1,57 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: APIENTRY: изменение макроопределения
+C:\Users\Дмитрий\source\repos\Графики\GL\GLFW\include\GLFW\glfw3.h(123): message : см. предыдущее определение "APIENTRY"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(169,27): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(169,29): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(170,26): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(170,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(171,29): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(171,20): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(172,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(172,20): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(179,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(180,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(186,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(187,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(192,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(193,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(194,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(195,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(200,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(201,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(202,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(203,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(205,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(206,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(207,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(208,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(278,26): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(278,51): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(287,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(289,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(309,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(310,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(397,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(397,47): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(406,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(408,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(476,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(476,47): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(485,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(487,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(554,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(554,47): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(563,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(565,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(632,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(632,47): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(641,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дмитрий\source\repos\Графики\Графики\Source.cpp(643,41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Graphic.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: APIENTRY: изменение макроопределения
+C:\Users\Дмитрий\source\repos\Графики\GL\GLFW\include\GLFW\glfw3.h(123): message : см. предыдущее определение "APIENTRY"
+C:\Users\Дмитрий\source\repos\Графики\Графики\Graphic.cpp(9,9): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Дмитрий\source\repos\Графики\Графики\Graphic.cpp(12,9): warning C4101: ans: неиспользованная локальная переменная
+  Создание кода...
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Графики.vcxproj -> C:\Users\Дмитрий\source\repos\Графики\x64\Debug\Графики.exe
